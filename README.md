@@ -1,0 +1,1 @@
+This repository provides a variety of modern and responsive login systems developed using HTML, CSS, Bootstrap, and PHP. Each implementation includes proper form validation (client-side and server-side) and is structured for easy integration. The goal is to help developers save time by offering reusable, secure, and customizable authentication templates.
